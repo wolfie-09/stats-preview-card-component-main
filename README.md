@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/wolfie-09/stats-preview-card-component-main/)
+- Live Site URL: [Netlify Deployed Site](https://epic-heyrovsky-b56025.netlify.app/)
 
 ## My process
 

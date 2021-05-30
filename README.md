@@ -26,12 +26,12 @@ Users should be able to:
 ### Screenshot
 
 
-![In Galaxy Fold](Screenshot Answer\Index-Full-Galaxy Fold.jpg)
-![In Generic Laptop](Screenshot Answer\Index-Full-Generic Laptop.jpg)
-![In iPad](Screenshot Answer\Index-Full-iPad.jpg)
-![In iPhoneX](Screenshot Answer\Index-Full-iPhoneX.jpg)
-![In Pixel2](Screenshot Answer\Index-Full-Pixel 2.jpg)
-![In MotoG4](Screenshot Answer\Index-Full-MotoG4)
+- [In Galaxy Fold](Screenshot Answer\Index-Full-Galaxy Fold.jpg)
+- [In Generic Laptop](Screenshot Answer\Index-Full-Generic Laptop.jpg)
+- [In iPad](Screenshot Answer\Index-Full-iPad.jpg)
+- [In iPhoneX](Screenshot Answer\Index-Full-iPhoneX.jpg)
+- [In Pixel2](Screenshot Answer\Index-Full-Pixel 2.jpg)
+- [In MotoG4](Screenshot Answer\Index-Full-MotoG4)
 
 
 ### Links
